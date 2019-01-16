@@ -1788,8 +1788,10 @@ label.error {
   .space-70 {
     height: 35px; }
   .parallax-background, .about-chefs, .cta-background-2, .page-breadcrumb, .full_screen_hero {
+    padding: 50px 0 50px;
     background-attachment: scroll !important;
-    background-position: center center !important; } }
+    background-position: center center !important;
+    } }
 
 @media (max-width: 575px) {
   .navbar-brand > img {
